@@ -1,2 +1,5 @@
 vlan 20
  name employee
+
+mls qos
+class bronze
