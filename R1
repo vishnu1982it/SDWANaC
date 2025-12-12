@@ -1,1 +1,2 @@
 router ospf 10
+router bgp 200
